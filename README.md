@@ -1,2 +1,2 @@
-# Practice_python
-Python practicing
+# Prediction_using_a_model
+Linear Regression
